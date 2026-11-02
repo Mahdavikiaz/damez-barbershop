@@ -216,7 +216,7 @@ export default async function LandingPage() {
           <ScrollReveal duration={0.8}>
             <div>
               <MonoLabel tone="brass">Ketentuan & Kebijakan</MonoLabel>
-              <h2 id="faq" className="mt-1 font-display text-3xl font-bold text-text">
+              <h2 id="faq" className="mt-1 font-display text-3xl font-extrabold text-text sm:text-4xl">
                 Pertanyaan yang sering diajukan
               </h2>
             </div>

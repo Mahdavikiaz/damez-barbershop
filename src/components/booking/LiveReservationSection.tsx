@@ -103,7 +103,7 @@ export function LiveReservationSection({
 
             <h2
               id={headingId}
-              className="mt-5 font-display text-3xl font-extrabold tracking-tight text-text sm:text-4xl lg:text-5xl"
+              className="mt-4 font-display text-3xl font-extrabold text-text sm:text-4xl"
             >
               Ketersediaan Kursi & Reservasi
             </h2>
